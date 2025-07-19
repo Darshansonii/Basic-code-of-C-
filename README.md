@@ -5,6 +5,7 @@ Experiment-1
 In this experiment, we have done two simple programs of c++
 
 1.Hello World program
+
 This is a basic C++ program that simply displays the message "Hello, World!" on the screen. It's typically the first program written when learning a new programming language, helping beginners understand how the structure of a C++ program works.
 
 The program demonstrates:
@@ -18,6 +19,7 @@ Using std::cout to display output
 It serves as a foundational example to test your compiler setup and get familiar with basic syntax.
 
 2.Simple calculator program
+
 The Simple Calculator is a console-based C++ program that performs basic arithmetic operations:
 
 Addition (+)
