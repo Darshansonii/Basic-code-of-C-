@@ -1,0 +1,35 @@
+//Name-Darshan Soni
+//PRN-24070123034
+//Exp1
+
+//Simple calculator
+
+#include<iostream>
+using namespace std;
+
+int main(){
+    float x,y,sum,sub,mult,div;
+    cout<<"Enter first number: ";
+    cin>>x;
+    cout<<"Enter second number: ";
+    cin>>y;
+    sum=x+y;
+    sub=x-y;
+    mult=x*y;
+    div=x/y;
+    cout<<"Sum of given numbers is:"<<sum<<endl;
+    cout<<"Subtraction of given numbers is:"<<sub<<endl;
+    cout<<"Multiplication of given numbers is:"<<mult<<endl;
+    cout<<"Division of given numbers is:"<<div<<endl;
+    return 0;
+}
+
+/*
+Output
+Enter first number: 5
+Enter second number: 2
+Sum of given numbers is:7
+Subtraction of given numbers is:3
+Multiplication of given numbers is:10
+Division of given numbers is:2.5
+*/
