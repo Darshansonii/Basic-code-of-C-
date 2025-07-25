@@ -1,4 +1,4 @@
-# Basic-code-of-C-
+# Basic-code-of-C++
 Experiment-1
 
 
